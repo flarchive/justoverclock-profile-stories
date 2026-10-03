@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of justoverclock/profile-stories.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/profile-stories) or the [upstream repository](https://github.com/justoverclockl/profile-stories).
 
-**0** versions archived · Latest: [`1.3.4`](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.3.4) · License: `MIT` · Flarum: `^1.2.0`
+**9** versions archived · Latest: [`1.3.4`](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.3.4) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2025-01-07 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.0.0) |
+| `1.0.1` | 2025-01-07 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.0.1) |
+| `1.1.0` | 2025-01-07 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.1.0) |
+| `1.2.0` | 2025-01-08 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.2.0) |
+| `1.2.1` | 2025-01-08 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.2.1) |
+| `1.3.1` | 2025-01-09 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.3.1) |
+| `1.3.2` | 2025-01-10 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.3.2) |
+| `1.3.3` | 2025-01-18 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.3.3) |
+| `1.3.4` | 2025-01-24 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-stories/tree/archive/v1.3.4) |
 
 Catalog entry: [packages/justoverclock-profile-stories.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-profile-stories.json)
 
